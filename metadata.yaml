@@ -1,0 +1,5 @@
+homepage: "https://johansson.plus"
+documentation: "https://github.com/johansson-plus/gtm-matomo-analytics"
+versions:
+  - sha: dd803474fde189554f868251f2930d331d1b0953
+    changeNotes: Initial release.
